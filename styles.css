@@ -1,0 +1,70 @@
+body {
+	font-family: roboto mono;
+	background-color: black;
+	background-image: url("https://images.pexels.com/photos/3207527/pexels-photo-3207527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+	background-attachment: fixed;
+	text-align: center;
+}
+
+header {
+	color: whitesmoke;
+	background-image: linear-gradient(to top, #383838, #74787d);
+	text-align: center;
+	margin-bottom: 35px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid whitesmoke;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: protest guerrilla;
+}
+
+th {
+	font-size: 25px;
+}
+
+td {
+	font-size: 20px;
+}
+
+strong {
+	font-size: 25px;
+	color: whitesmoke;
+}
+
+form {
+	display: flex;
+	justify-content: center;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+	column-gap: 10px;
+}
+
+button {
+	margin: 15px;
+}
+
+.form {
+	color: whitesmoke;
+	background-color: #222224;
+	border: 1px solid whitesmoke;
+	text-align: left;
+	padding: 25px;
+	width: 650px;
+	margin: 15px;
+}
+
+.footer {
+	color: whitesmoke;
+	background-color: #222224;
+	border: 1px solid whitesmoke;
+	text-align: center;
+	padding: 15px;
+	width: 600px;
+	margin: 15px;
+}
